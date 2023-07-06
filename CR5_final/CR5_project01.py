@@ -33,5 +33,7 @@ class Square:
         return result
 
 a = Square()
-a = par()
-a = trape()
+print(a.rect())
+print(a.par())
+print(a.trape())
+
